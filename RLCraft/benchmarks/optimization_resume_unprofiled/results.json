@@ -1,0 +1,26 @@
+[
+  {
+    "run": "n10-lean-shared-cpu-seed305-idle-event",
+    "task": "bed_defense_break_v2",
+    "count": 10,
+    "vec_env": "lean-shared",
+    "device": "cpu",
+    "heap_mb": 1024,
+    "idle_wait_mode": "event",
+    "seed": 305,
+    "status": "ok",
+    "wall_seconds": 258.125,
+    "peak_rss_gib": 11.121208190917969,
+    "peak_system_memory_percent": 88.7,
+    "warmed_wall_fps": 1392.1657268440083,
+    "final_episode_count": 7260.0,
+    "final_success_rate_100": 0.0,
+    "final_mean_reward_100": -0.028,
+    "final_mean_episode_length_100": 60.0,
+    "final_mean_completion_100": 0.0,
+    "final_curriculum_stage": "one_layer_fixed_aimed",
+    "final_mastery_eligible": 400,
+    "final_mastery_success_rate": 0.0,
+    "final_mastery_required_rate": 90.0
+  }
+]

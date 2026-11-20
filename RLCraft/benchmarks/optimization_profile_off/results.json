@@ -1,0 +1,17 @@
+[
+  {
+    "run": "n10-lean-shared-cpu-seed301-idle-event",
+    "task": "bed_defense_break_v2",
+    "count": 10,
+    "vec_env": "lean-shared",
+    "device": "cpu",
+    "heap_mb": 1024,
+    "idle_wait_mode": "event",
+    "seed": 301,
+    "status": "ok",
+    "wall_seconds": 108.75,
+    "peak_rss_gib": 11.130077362060547,
+    "peak_system_memory_percent": 82.3,
+    "warmed_wall_fps": 620.3065446510516
+  }
+]

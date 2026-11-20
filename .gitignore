@@ -1,0 +1,49 @@
+# Python and editor state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local configuration, credentials, and working notes
+.agents/
+.codex/
+.aws/
+.env
+.env.*
+!.env.example
+core.md
+
+# Training and launcher outputs
+models/
+logs/
+runs/
+*.log
+*.jar
+!/RLCraft/gradle/wrapper/gradle-wrapper.jar
+/RLCraft/2.0.0
+
+# Historical working notes and per-run diagnostics
+/RLCraft/benchmarks/DECISIONS_AND_RESULTS.md
+/RLCraft/benchmarks/*.jsonl
+/RLCraft/benchmarks/*/*
+!/RLCraft/benchmarks/optimization_confirm/results.json
+!/RLCraft/benchmarks/optimization_fixture/results.json
+!/RLCraft/benchmarks/optimization_profile_off/results.json
+!/RLCraft/benchmarks/optimization_resume_unprofiled/results.json
+!/RLCraft/benchmarks/optimization_scale/results.json
+!/RLCraft/benchmarks/optimization_screen_v2/results.json
+!/RLCraft/benchmarks/optimization_sustained/results.json
+
+# Template automation applies only to uninitialized Forge template repos.
+/RLCraft/.github/
+/RLCraft/make-my-own.sh
+
+# Local review copy
+/.publish/

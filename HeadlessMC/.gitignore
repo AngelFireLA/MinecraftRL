@@ -1,0 +1,12 @@
+# HeadlessMC runtime state and downloaded Minecraft files
+/HeadlessMC/
+/shared/
+
+# Per-instance worlds, logs and generated Forge state
+/instances/
+
+# Downloaded dependencies and local saves
+/headlessmc-launcher.jar
+*.download
+/template/mods/
+/template/void/

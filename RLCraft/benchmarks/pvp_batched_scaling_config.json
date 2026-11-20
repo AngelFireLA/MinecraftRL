@@ -1,0 +1,19 @@
+{
+  "task": "pvp_benchmark",
+  "counts": [10, 12, 14],
+  "vec_envs": ["batched"],
+  "devices": ["cpu"],
+  "seeds": [201],
+  "total_timesteps": 25600,
+  "warmup_rollouts": 2,
+  "profile_java_phases": true,
+  "timeout_seconds": 1800,
+  "heap_mb": 1024,
+  "active_processor_count": 4,
+  "garbage_collector": "default",
+  "display_sleep_milliseconds": 0,
+  "stagger_seconds": 2,
+  "max_memory_percent": 92.0,
+  "trainer_cpus": [],
+  "minecraft_cpus": []
+}

@@ -1,0 +1,8 @@
+{
+  "package": "${basePackage}.mixin",
+  "plugin": "${basePackage}.init.AutoDiscoveryMixinPlugin",
+  "refmap": "mixins.${modid}.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "__comment": "Mixins are automatically discovered below the configured mixin package."
+}

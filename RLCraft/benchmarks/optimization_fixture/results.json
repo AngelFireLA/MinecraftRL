@@ -1,0 +1,478 @@
+{
+  "bed_v2_stage6": {
+    "passed": true,
+    "resets": 5,
+    "seconds": 41.28526539999439
+  },
+  "pvp_no_attack": {
+    "passed": true,
+    "health": 20.0
+  },
+  "pvp_attack": {
+    "damage_observed": true,
+    "death_observed": true,
+    "fresh_alive": true,
+    "trace": [
+      {
+        "task_entity.health": 20.0,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 5.9633013059719095,
+        "raycast.type": "MISS",
+        "raycast.id": -1,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 20.0,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 5.786722413432301,
+        "raycast.type": "MISS",
+        "raycast.id": -1,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 20.0,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 5.537148904043413,
+        "raycast.type": "MISS",
+        "raycast.id": -1,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 20.0,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 5.22415677433468,
+        "raycast.type": "MISS",
+        "raycast.id": -1,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 20.0,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 4.9255101791269045,
+        "raycast.type": "MISS",
+        "raycast.id": -1,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 20.0,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 4.691209047591856,
+        "raycast.type": "MISS",
+        "raycast.id": -1,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 20.0,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 4.195305199226135,
+        "raycast.type": "MISS",
+        "raycast.id": -1,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 20.0,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 3.804293588851346,
+        "raycast.type": "MISS",
+        "raycast.id": -1,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 20.0,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 3.410405840994734,
+        "raycast.type": "MISS",
+        "raycast.id": -1,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 20.0,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.946567717875047,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.775767017351273,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.7063230372337546,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.5648585447795895,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.365239434070414,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.0961518890760233,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.360790694949279,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.3714020726883667,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.1445062558809718,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.0079324934124942,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.0009729355247154,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 15.8,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 1.9778594241039684,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 11.6,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.2885047635393376,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 11.6,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.3016248872786647,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 11.6,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.0625741834308084,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 11.6,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.4445446939832394,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 11.6,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.477229728521346,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 11.6,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.2354039510377155,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 11.6,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.179683228432477,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 11.6,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.021497233255179,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 11.6,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 1.9450854982179435,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 11.6,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 1.9406957032982404,
+        "raycast.type": "MISS",
+        "raycast.id": -1,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 7.4000006,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.251370052566401,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 7.4000006,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.256949490689247,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 7.4000006,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.332701130046797,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 7.4000006,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.2465126248209786,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 7.4000006,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 1.990744830436389,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 7.4000006,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.207236847648401,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 7.4000006,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.1921801858135876,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 7.4000006,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 1.967790408664995,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 7.4000006,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 1.9231471436426903,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 7.4000006,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 1.9517158545849544,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 3.2000008,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.2462645374019545,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 3.2000008,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.3730915487897835,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 3.2000008,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.281154607512053,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 3.2000008,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.0237061159538485,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 3.2000008,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.3123808255755827,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 3.2000008,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.3343503583301755,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 3.2000008,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 2.1084925036042907,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 3.2000008,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 1.9703443646163268,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 3.2000008,
+        "task_entity.alive": true,
+        "player.health": 20.0,
+        "task_entity.distance": 1.9625678250874607,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      },
+      {
+        "task_entity.health": 0.0,
+        "task_entity.alive": false,
+        "player.health": 20.0,
+        "task_entity.distance": 1.9394908834947981,
+        "raycast.type": "ENTITY",
+        "raycast.id": 66,
+        "task_entity.id": 66
+      }
+    ]
+  },
+  "pvp_speed_claim_allowed": true
+}

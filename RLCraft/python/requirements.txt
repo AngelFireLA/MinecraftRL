@@ -1,0 +1,5 @@
+numpy>=1.26,<3
+gymnasium>=1.2,<2
+torch>=2.3,<3
+stable-baselines3>=2.7,<3
+psutil>=6,<8

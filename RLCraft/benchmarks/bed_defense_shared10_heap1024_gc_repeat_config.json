@@ -1,0 +1,13 @@
+{
+  "task": "bed_defense_break_v2",
+  "counts": [10],
+  "vec_envs": ["shared"],
+  "devices": ["cpu"],
+  "seeds": [302, 303],
+  "total_timesteps": 25600,
+  "warmup_rollouts": 2,
+  "profile_java_phases": true,
+  "timeout_seconds": 1800,
+  "heap_mb": 1024,
+  "gc_logging": true
+}
